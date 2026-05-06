@@ -40,24 +40,6 @@ HR Mobile is designed to provide a simple and trusted experience for employees a
 - Use the app in Arabic and English
 
 ---
-
-## Download
-
-1. Open tags page:
-  https://github.com/etolv2023/HR-Mobile/tags
-2. Choose the required version
-3. Open assets for that version
-4. Download the mobile app file
-
-Direct latest version download page:
-https://github.com/etolv2023/HR-Mobile/releases/latest
-
-Direct latest APK files:
-- Portal APK: https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-portal.apk
-- Trio APK: https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-trio.apk
-
----
-
 ## App Demonstration
 
 ### Brand
@@ -83,6 +65,23 @@ Example preview layout:
   <img src="app-images/Screenshot_1778072607.png" alt="Weekly Schedule Screen" width="220" />
   <img src="app-images/Screenshot_1778072613.png" alt="Car Complaint Screen" width="220" />
 </p>
+
+---
+
+## Download
+
+1. Open tags page:
+  https://github.com/etolv2023/HR-Mobile/tags
+2. Choose the required version
+3. Open assets for that version
+4. Download the mobile app file
+
+Direct latest version download page:
+https://github.com/etolv2023/HR-Mobile/releases/latest
+
+Direct latest APK files:
+- Portal APK: https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-portal.apk
+- Trio APK: https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-trio.apk
 
 ---
 

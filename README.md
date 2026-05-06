@@ -46,7 +46,7 @@ https://github.com/MNaguibEtolv/HR-Mobile/releases/latest
 ### Brand
 
 <p align="left">
-  <img src="assets/images/logo.png" alt="HR Mobile Logo" width="120" />
+  <img src="app-images/logo.png" alt="HR Mobile Logo" width="120" />
 </p>
 
 ### Service Screens

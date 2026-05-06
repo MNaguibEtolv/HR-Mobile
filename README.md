@@ -9,8 +9,21 @@
     <img alt="Download from Tags" src="https://img.shields.io/badge/Download-App%20From%20Tags-0A66C2?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/etolv2023/HR-Mobile/releases/latest">
-    <img alt="Latest Release" src="https://img.shields.io/github/v/release/MNaguibEtolv/HR-Mobile?style=for-the-badge" />
+    <img alt="Download Latest Version" src="https://img.shields.io/badge/Download-Latest%20Version-1DB954?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-portal.apk">
+    <img alt="Download Portal APK" src="https://img.shields.io/badge/Download-Portal%20APK-FF8C00?style=for-the-badge&logo=android" />
+  </a>
+  <a href="https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-trio.apk">
+    <img alt="Download Trio APK" src="https://img.shields.io/badge/Download-Trio%20APK-6A5ACD?style=for-the-badge&logo=android" />
+  </a>
+</p>
+
+<p align="center">
+  Click <b>Download Latest Version</b> to get the newest app release directly.
 </p>
 
 ---
@@ -31,13 +44,17 @@ HR Mobile is designed to provide a simple and trusted experience for employees a
 ## Download
 
 1. Open tags page:
-   https://github.com/MNaguibEtolv/HR-Mobile/tags
+  https://github.com/etolv2023/HR-Mobile/tags
 2. Choose the required version
 3. Open assets for that version
 4. Download the mobile app file
 
-Latest release:
-https://github.com/MNaguibEtolv/HR-Mobile/releases/latest
+Direct latest version download page:
+https://github.com/etolv2023/HR-Mobile/releases/latest
+
+Direct latest APK files:
+- Portal APK: https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-portal.apk
+- Trio APK: https://github.com/etolv2023/HR-Mobile/releases/latest/download/app-trio.apk
 
 ---
 
@@ -46,7 +63,7 @@ https://github.com/MNaguibEtolv/HR-Mobile/releases/latest
 ### Brand
 
 <p align="left">
-  <img src="app-images/logo.png" alt="HR Mobile Logo" width="120" />
+  <img src="assets/images/logo.png" alt="HR Mobile Logo" width="120" />
 </p>
 
 ### Service Screens
@@ -79,4 +96,4 @@ Example preview layout:
 
 ## Official Repository
 
-https://github.com/MNaguibEtolv/HR-Mobile
+https://github.com/etolv2023/HR-Mobile

@@ -63,7 +63,7 @@ Direct latest APK files:
 ### Brand
 
 <p align="left">
-  <img src="assets/images/logo.png" alt="HR Mobile Logo" width="120" />
+  <img src="app-images/logo.png" alt="HR Mobile Logo" width="120" />
 </p>
 
 ### Service Screens
